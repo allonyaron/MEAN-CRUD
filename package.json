@@ -1,0 +1,14 @@
+{
+  "name": "mean-crud",
+  "version": "1.0.0",
+  "description": "MEAN CRUD ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allon Yaron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
