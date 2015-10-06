@@ -1,0 +1,13 @@
+{
+  "name": "MEAN-CRUD",
+  "version": "0.0.1",
+  "homepage": "https://github.com/allonyaron/MEAN-CRUD",
+  "authors": [
+    "Allon Yaron <allonyaron@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15"
+  }
+}
